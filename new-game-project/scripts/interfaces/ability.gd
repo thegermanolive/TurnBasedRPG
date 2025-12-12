@@ -1,4 +1,4 @@
-class_name ability
+class_name Ability
 
 extends RefCounted
 

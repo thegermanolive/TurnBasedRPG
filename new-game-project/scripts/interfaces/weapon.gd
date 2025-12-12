@@ -1,4 +1,4 @@
-class_name weapon
+class_name Weapon
 
 extends RefCounted
 
